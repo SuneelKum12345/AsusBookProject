@@ -2,7 +2,7 @@
 # Project Name
 
 <p align="center">
-  <img src="your_project_logo.png" alt="Project Logo" width="150" height="150">
+  <img src="/imag.jpg" alt="Project Logo" width="150" height="150">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
